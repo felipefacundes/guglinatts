@@ -4,6 +4,7 @@ Guglina TTS é um sintetizador de voz, em **português do Brasil**, que lê tela
 Está sob a égide da **licença**:
 ### GPLv3
 > Mantenedor: Felipe Facundes
+###### Site: https://brasiltts.wordpress.com/
 ###### E-Mail: felipe.facundes@gmail.com
 ###### Telegram: https://t.me/comandos_linux
 #
@@ -21,6 +22,8 @@ yes s | sh INSTALL.sh
 ``` 
 sudo cp guglinatts-generic.conf /etc/speech-dispatcher/modules/
 sudo cp speechd.conf /etc/speech-dispatcher/
+sudo cp googletts* /bin/
+sudo chmod +x /bin/googletts*
 ```     
 #
 ### Instalação de Dependências:
@@ -35,7 +38,8 @@ sudo cp speechd.conf /etc/speech-dispatcher/
   - python2-notify 
   - perl-libwww 
   - perl-www-mechanize 
-  - perl-html-tree 
+  - perl-html-tree
+  - ffmpeg
   - sox 
   - fmt 
   - lame 
@@ -44,15 +48,14 @@ sudo cp speechd.conf /etc/speech-dispatcher/
 #
 - **Instalação pelo ArchLinux**
 ```
-sudo pacman -S espeak-ng speech-dispatcher orca onboard
+sudo pacman -S espeak-ng speech-dispatcher orca onboard ffmpeg xsel libnotify python2-notify perl-libwww perl-www-mechanize perl-html-tree sox fmt lame perl-www-curl
 ```
 ```
-sudo pacman -U mbrola-3.0.1h-5-x86_64.pkg.tar.xz
-sudo pacman -U mbrola-voices-br4-1-2-any.pkg.tar.xz
+sudo pacman -U svox-pico-bin-1.0+git20130326-8-x86_64.pkg.tar.xz
 ```
 #
 - **Pelo Debian e derivados:**
-  - Caso não tenha o mbrola no repositório.
+  - Caso não tenha o pico2wave no repositório.
   - Deverá primeiro, converter os pacotes ".tar.xz" em ".deb"
   - Use o comando alien para converter
   - Após, é só instalar com o comando dpkg
