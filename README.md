@@ -97,7 +97,9 @@ onboard --not-show-in=GNOME,GNOME-Classic:GNOME --startup-delay=3.0 &
 ``` 
 cp /etc/xdg/autostart/onboard-autostart.desktop ~/.config/autostart/
 ```
-### Ativar o onboard é necessário, para que programas que tenham o recurso de acessibilidade, ###
-### como o OKULAR, possam funcionar corretamente. Não deixe de ativar o onboard! ;) ###
+### Ativar o onboard é necessário, para que programas que tenham o recurso de acessibilidade, como o OKULAR, possam funcionar corretamente. Não deixe de ativar o onboard! ;) ###
+
+<br></br>
+
 ###### Guglina é um acrônimo de: Google + Regina. Uma homenagem à Paulista: Regina Bittar, responsável pela voz do Google no Brasil.
 #### Licence: GPLv3 ####
