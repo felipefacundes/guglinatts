@@ -103,3 +103,20 @@ cp /etc/xdg/autostart/onboard-autostart.desktop ~/.config/autostart/
 
 ###### Guglina é um acrônimo de: Google + Regina. Uma homenagem à Paulista: Regina Bittar, responsável pela voz do Google no Brasil.
 #### Licença: GPLv3 ####
+
+<br></br>
+
+```
+
+┏┓
+┃┃╱╲ nesta
+┃╱╱╲╲ casa
+╱╱╭╮╲╲ todos
+▔▏┗┛▕▔ usam
+╱▔▔▔▔▔▔▔▔▔▔╲
+LINUX
+╱╱┏┳┓╭╮┏┳┓ ╲╲
+▔▏┗┻┛┃┃┗┻┛▕▔
+--------------------------
+
+```
