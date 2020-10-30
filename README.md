@@ -136,11 +136,10 @@ LINUX
 
 ----
 
-# <a href="https://github.com/felipefacundes/mpv_thumbnail_script/"><img src="docs/brazil.jpg" width="32" height="17" title="Doação" alt="Portugues Brasil"></a> Doação
+#### <a href="https://github.com/felipefacundes/mpv_thumbnail_script/"><img src="https://raw.githubusercontent.com/felipefacundes/mpv_thumbnail_script/main/docs/brazil.jpg" width="32" height="17" title="Doação" alt="Portugues Brasil"></a> Doação
 
 Se você realmente gosta disso, pode me doar via [`PayPal`](https://www.paypal.com/donate/?hosted_button_id=REU2UNGXLQQPG).
 
-# <a href="https://github.com/felipefacundes/mpv_thumbnail_script/"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="32" height="17" title="Change the Lua script" alt="English"></a> Donation
+#### <a href="https://github.com/felipefacundes/mpv_thumbnail_script/"><img src="https://raw.githubusercontent.com/felipefacundes/PS/master/imagens/United_States.png" width="32" height="17" title="Change the Lua script" alt="English"></a> Donation
 
 If you really like it, you can pay me with [`PayPal`](https://www.paypal.com/donate/?hosted_button_id=REU2UNGXLQQPG).
-
